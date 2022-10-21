@@ -9,3 +9,13 @@
 ```
 git remote add <имя репо> <адрес репо>
 ```
+
+```C#
+int a = 1;
+int n = 10;
+while (a<n)
+{
+    a++;
+    print a;
+}
+```
